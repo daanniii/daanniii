@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daanniii
 - 👀 I’m interested in front-end web develop
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, android
 
 
 <!---
